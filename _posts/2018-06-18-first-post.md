@@ -4,4 +4,5 @@ title: First post!
 image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+그냥 다 지우고, 처음 블로그 올려 봄.
+
