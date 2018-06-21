@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anaconda + Jupyter + Tensorflow
+title: Python 3.5 + Anaconda 4.5 + Tensorflow(GPU) + Jupyter with Docker
 image: /img/anaconda.jpeg
 ---
 
@@ -9,6 +9,7 @@ image: /img/anaconda.jpeg
 기본 이미지로 [anaconda3](https://hub.docker.com/r/continuumio/anaconda3/) 이용하려했는데, 어려움.
 
 대신 이미지 [tensorflow](https://hub.docker.com/r/tensorflow/tensorflow/) 를 기본으로 설치 시작.
+
 
 ## Nvidia 도커 실행 환경과 GPU 확인하기.
 
