@@ -168,6 +168,10 @@ $ docker ps
 
 # 여기에 붙이는 방법은.
 $ docker exec -it tf-conda3-run bash
+
+# TIP - pip 모듈 설치하기.
+$ source activate tensorflow
+$ pip install requests
 ```
 
 ## 작업 마무리.
